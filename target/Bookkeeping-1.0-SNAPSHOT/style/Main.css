@@ -1,0 +1,65 @@
+.table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #ECE9E0;
+    color: #656665;
+    border: 16px solid #ECE9E0;
+    border-radius: 20px;
+}
+.table th {
+    font-size: 18px;
+    padding: 10px;
+}
+.table td {
+    background: #F5D7BF;
+    padding: 10px;
+}
+input input,
+.input label{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+h1{
+    margin: 1em 0 0.5em 0;
+    color: #343434;
+    font-size: 22px;
+    line-height: 40px;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-family: 'Orienta', sans-serif;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+.btn-primary{
+    margin-top: 10px;
+    align:center;
+}
+body{
+    margin-left: 30px;
+}
+.login-block
+{
+    background-color:#fff;
+    padding:60px;
+    -webkit-box-shadow:0 3px 50px 0 rgba(0,0,0,.1);
+    box-shadow:0 3px 50px 0 rgba(0,0,0,.1);
+    text-align:center;
+    border-radius:5px
+}
+.login-block h,.login-block h6
+{
+    font-family:Open Sans,sans-serif;
+    color:#96a2b2;
+    letter-spacing:1px
+}
+.login-block h
+{
+    font-size:22px;
+    margin-bottom:60px;
+    margin-top:40px
+}
